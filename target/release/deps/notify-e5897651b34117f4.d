@@ -1,0 +1,12 @@
+/Users/MengyunLiu/rustlings/target/release/deps/notify-e5897651b34117f4.rmeta: /Users/MengyunLiu/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/lib.rs /Users/MengyunLiu/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/fsevent.rs /Users/MengyunLiu/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/null.rs /Users/MengyunLiu/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/poll.rs /Users/MengyunLiu/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/mod.rs /Users/MengyunLiu/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/timer.rs
+
+/Users/MengyunLiu/rustlings/target/release/deps/libnotify-e5897651b34117f4.rlib: /Users/MengyunLiu/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/lib.rs /Users/MengyunLiu/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/fsevent.rs /Users/MengyunLiu/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/null.rs /Users/MengyunLiu/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/poll.rs /Users/MengyunLiu/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/mod.rs /Users/MengyunLiu/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/timer.rs
+
+/Users/MengyunLiu/rustlings/target/release/deps/notify-e5897651b34117f4.d: /Users/MengyunLiu/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/lib.rs /Users/MengyunLiu/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/fsevent.rs /Users/MengyunLiu/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/null.rs /Users/MengyunLiu/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/poll.rs /Users/MengyunLiu/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/mod.rs /Users/MengyunLiu/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/timer.rs
+
+/Users/MengyunLiu/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/lib.rs:
+/Users/MengyunLiu/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/fsevent.rs:
+/Users/MengyunLiu/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/null.rs:
+/Users/MengyunLiu/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/poll.rs:
+/Users/MengyunLiu/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/mod.rs:
+/Users/MengyunLiu/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/timer.rs:
